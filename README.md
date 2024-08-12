@@ -1,6 +1,6 @@
-# Netflix-Data-Analysis
+# Netflix-Data-Analysis-
 
-Project Summary: Data Analysis of Netflix Content and User Preferences
+ Project Summary: Data Analysis of Netflix Content and User Preferences
 
 - Created a Python data analysis project utilizing Kaggle's Netflix dataset.
 - Integrated IMDb ratings data to augment the analysis.
